@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrialX Cinema</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourites">Favourites</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="release_date">Release Date</string>
+</resources>
